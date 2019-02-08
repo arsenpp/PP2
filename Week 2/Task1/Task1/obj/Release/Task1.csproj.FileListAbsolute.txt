@@ -1,0 +1,6 @@
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\bin\Release\Task1.exe.config
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\bin\Release\Task1.exe
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\bin\Release\Task1.pdb
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\obj\Release\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\obj\Release\Task1.exe
+C:\Users\Arsen Zhaxygaliyev\Desktop\PP2\Week 2\Task1\Task1\obj\Release\Task1.pdb
